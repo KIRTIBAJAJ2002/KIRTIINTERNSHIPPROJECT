@@ -1,0 +1,11 @@
+[ 2023-05-14 13:01:21,269 ] 186 werkzeug - WARNING -  * Debugger is active!
+[ 2023-05-14 13:01:21,276 ] 186 werkzeug - INFO -  * Debugger PIN: 981-464-306
+[ 2023-05-14 13:02:10,695 ] 186 werkzeug - INFO - 127.0.0.1 - - [14/May/2023 13:02:10] "GET / HTTP/1.1" 200 -
+[ 2023-05-14 13:02:10,739 ] 186 werkzeug - INFO - 127.0.0.1 - - [14/May/2023 13:02:10] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2023-05-14 13:03:21,175 ] 186 werkzeug - INFO - 127.0.0.1 - - [14/May/2023 13:03:21] "GET / HTTP/1.1" 200 -
+[ 2023-05-14 13:03:31,093 ] 186 werkzeug - INFO - 127.0.0.1 - - [14/May/2023 13:03:31] "GET / HTTP/1.1" 200 -
+[ 2023-05-14 13:03:32,839 ] 186 werkzeug - INFO - 127.0.0.1 - - [14/May/2023 13:03:32] "GET / HTTP/1.1" 200 -
+[ 2023-05-14 13:03:33,999 ] 186 werkzeug - INFO - 127.0.0.1 - - [14/May/2023 13:03:33] "GET / HTTP/1.1" 200 -
+[ 2023-05-14 13:03:34,216 ] 186 werkzeug - INFO - 127.0.0.1 - - [14/May/2023 13:03:34] "GET / HTTP/1.1" 200 -
+[ 2023-05-14 13:03:37,322 ] 186 werkzeug - INFO - 127.0.0.1 - - [14/May/2023 13:03:37] "GET / HTTP/1.1" 200 -
+[ 2023-05-14 14:07:38,162 ] 186 werkzeug - INFO -  * Detected change in 'd:\\internshipproject\\app.py', reloading

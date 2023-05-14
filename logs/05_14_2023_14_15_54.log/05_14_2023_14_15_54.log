@@ -1,0 +1,3 @@
+[ 2023-05-14 14:15:55,622 ] 186 werkzeug - WARNING -  * Debugger is active!
+[ 2023-05-14 14:15:55,627 ] 186 werkzeug - INFO -  * Debugger PIN: 981-464-306
+[ 2023-05-14 14:34:25,254 ] 186 werkzeug - INFO -  * Detected change in 'D:\\Internshipproject\\app.py', reloading

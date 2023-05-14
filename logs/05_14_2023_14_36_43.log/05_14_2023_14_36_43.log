@@ -1,0 +1,16 @@
+[ 2023-05-14 14:36:44,501 ] 186 werkzeug - WARNING -  * Debugger is active!
+[ 2023-05-14 14:36:44,505 ] 186 werkzeug - INFO -  * Debugger PIN: 981-464-306
+[ 2023-05-14 14:37:28,394 ] 186 werkzeug - INFO - 127.0.0.1 - - [14/May/2023 14:37:28] "GET /predict HTTP/1.1" 200 -
+[ 2023-05-14 14:38:27,601 ] 186 werkzeug - INFO - 127.0.0.1 - - [14/May/2023 14:38:27] "GET /predict HTTP/1.1" 200 -
+[ 2023-05-14 14:40:47,230 ] 186 werkzeug - INFO - 127.0.0.1 - - [14/May/2023 14:40:47] "GET /predict HTTP/1.1" 200 -
+[ 2023-05-14 14:41:13,619 ] 186 werkzeug - INFO - 127.0.0.1 - - [14/May/2023 14:41:13] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+[ 2023-05-14 14:41:13,636 ] 186 werkzeug - INFO - 127.0.0.1 - - [14/May/2023 14:41:13] "GET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[ 2023-05-14 14:41:13,641 ] 186 werkzeug - INFO - 127.0.0.1 - - [14/May/2023 14:41:13] "GET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[ 2023-05-14 14:41:13,671 ] 186 werkzeug - INFO - 127.0.0.1 - - [14/May/2023 14:41:13] "GET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[ 2023-05-14 14:41:13,683 ] 186 werkzeug - INFO - 127.0.0.1 - - [14/May/2023 14:41:13] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2023-05-14 14:42:46,843 ] 186 werkzeug - INFO - 127.0.0.1 - - [14/May/2023 14:42:46] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+[ 2023-05-14 14:42:46,863 ] 186 werkzeug - INFO - 127.0.0.1 - - [14/May/2023 14:42:46] "[36mGET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[ 2023-05-14 14:42:46,869 ] 186 werkzeug - INFO - 127.0.0.1 - - [14/May/2023 14:42:46] "[36mGET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[ 2023-05-14 14:42:46,879 ] 186 werkzeug - INFO - 127.0.0.1 - - [14/May/2023 14:42:46] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2023-05-14 14:42:46,890 ] 186 werkzeug - INFO - 127.0.0.1 - - [14/May/2023 14:42:46] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2023-05-14 14:43:24,183 ] 186 werkzeug - INFO -  * Detected change in 'd:\\internshipproject\\app.py', reloading
